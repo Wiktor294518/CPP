@@ -1,0 +1,3 @@
+C:/Users/Kret/Desktop/Projekt/cmake-build-debug/CMakeFiles/Projekt.dir
+C:/Users/Kret/Desktop/Projekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kret/Desktop/Projekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

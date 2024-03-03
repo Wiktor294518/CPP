@@ -1,0 +1,10 @@
+# ninja log v5
+25	3251	7083712191633623	CMakeFiles/Projekt.dir/main.cpp.obj	4eab09413240ec18
+3253	4036	7083712199575012	Projekt.exe	3bef5eada7238bd2
+0	151	7311823471009779	build.ninja	4d8a4dfc06b67a78
+45	1395	7074030282991973	CMakeFiles/Projekt.dir/Haslo.cpp.obj	d28dd94584f563da
+27	1760	7074110320653475	CMakeFiles/Projekt.dir/Szyfrowanie.cpp.obj	acea949353870fe4
+8	521	7311823636862850	CMakeFiles/Projekt.dir/Haslo.cpp.obj	4571c8496f8e7251
+10	532	7311823636982959	CMakeFiles/Projekt.dir/Szyfrowanie.cpp.obj	e2c175bf95cc3477
+1	986	7311823641507077	CMakeFiles/Projekt.dir/main.cpp.obj	252a68e4d64576dd
+986	1193	7311823643563993	Projekt.exe	512ae67af7cdc30a
